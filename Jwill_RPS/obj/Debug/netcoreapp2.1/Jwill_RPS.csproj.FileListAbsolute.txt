@@ -1,0 +1,8 @@
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\obj\Debug\netcoreapp2.1\Jwill_RPS.csprojAssemblyReference.cache
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\obj\Debug\netcoreapp2.1\Jwill_RPS.csproj.CoreCompileInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\obj\Debug\netcoreapp2.1\Jwill_RPS.AssemblyInfoInputs.cache
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\obj\Debug\netcoreapp2.1\Jwill_RPS.AssemblyInfo.cs
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\bin\Debug\netcoreapp2.1\Jwill_RPS.deps.json
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\bin\Debug\netcoreapp2.1\Jwill_RPS.runtimeconfig.json
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\bin\Debug\netcoreapp2.1\Jwill_RPS.runtimeconfig.dev.json
+C:\Users\Dev Note 01\Desktop\hiago\Jwill_RPS\Jwill_RPS\bin\Debug\netcoreapp2.1\Jwill_RPS.dll
